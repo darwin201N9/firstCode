@@ -6,3 +6,4 @@ git branch -M main
 git remote add origin https://github.com/darwin201N9/firstCode.git
 git push -u origin main
 20240406
+还是没反应
